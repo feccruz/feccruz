@@ -1,0 +1,93 @@
+pinterest
+
+Criador de widgets
+Crie botões e widgets para adicionar no seu site ou app.
+Please note that if you added the official Save button to your code prior to June 2016, we updated it from the old design ("Pin It") to the new design ("Save") on October 3, 2017.
+
+URL do usuário do Pinterest
+https://br.pinterest.com/euzebiodacruzf/
+Tamanho
+
+Barra lateral
+Visualizar
+Francisco Euzébio Cruz ME
+Segue no 
+Largura: 170px - Altura: 909px
+Copie e cole este código em sua página onde desejar que seu add-on apareça:
+<a data-pin-do="embedUser" data-pin-lang="pt" data-pin-board-width="150" data-pin-scale-height="800" data-pin-scale-width="60" href="https://br.pinterest.com/euzebiodacruzf/"></a>
+Não se esqueça de incluir pinit.js uma vez por página, antes da tag de fechamento </BODY> .
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+------------------------------------------------------------------------------------------
+Criador de widgets
+Crie botões e widgets para adicionar no seu site ou app.
+Please note that if you added the official Save button to your code prior to June 2016, we updated it from the old design ("Pin It") to the new design ("Save") on October 3, 2017.
+
+URL da pasta do Pinterest
+https://www.pinterest.com/pinterest/official-news/
+Tamanho
+
+Barra lateral
+Visualizar
+PinterestOfficial news
+Segue no 
+Largura: 320px - Altura: 349px
+Copie e cole este código em sua página onde desejar que seu add-on apareça:
+<a data-pin-do="embedBoard" data-pin-lang="pt" data-pin-board-width="150" data-pin-scale-height="800" data-pin-scale-width="60" href="https://www.pinterest.com/pinterest/official-news/"></a>
+Não se esqueça de incluir pinit.js uma vez por página, antes da tag de fechamento </BODY> .
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+----------------------------------------------------------------------------------------
+Criador de widgets
+Crie botões e widgets para adicionar no seu site ou app.
+Please note that if you added the official Save button to your code prior to June 2016, we updated it from the old design ("Pin It") to the new design ("Save") on October 3, 2017.
+
+URL do Pin
+https://www.pinterest.com/pin/99360735500167749/
+Tamanho do Pin
+
+Pequeno
+
+Ocultar descrição
+Visualizar
+Next stop: Pinterest!por kentbrewLove my Pinterest t-shirt!
+Largura: 236px - Altura: 273px
+Copie e cole este código em sua página onde desejar que seu add-on apareça:
+<a data-pin-do="embedPin" data-pin-lang="pt" href="https://www.pinterest.com/pin/99360735500167749/"></a>
+Não se esqueça de incluir pinit.js uma vez por página, antes da tag de fechamento </BODY> .
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+-----------------------------------------------------------------------------------
+Criador de widgets
+Crie botões e widgets para adicionar no seu site ou app.
+Please note that if you added the official Save button to your code prior to June 2016, we updated it from the old design ("Pin It") to the new design ("Save") on October 3, 2017.
+
+URL do usuário do Pinterest
+https://www.pinterest.com/pinterest/
+Nome completo
+Pinterest
+Visualizar
+Pinterest
+Largura: 71px - Altura: 20px
+Copie e cole este código em sua página onde desejar que seu add-on apareça:
+<a data-pin-do="buttonFollow" href="https://www.pinterest.com/pinterest/">Pinterest</a>
+Não se esqueça de incluir pinit.js uma vez por página, antes da tag de fechamento </BODY> .
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+______________________________________________________________________________________
+Criador de widgets
+Crie botões e widgets para adicionar no seu site ou app.
+Please note that if you added the official Save button to your code prior to June 2016, we updated it from the old design ("Pin It") to the new design ("Save") on October 3, 2017.
+
+Tipo de botão
+
+Sobreposição de imagem
+
+Arredondado
+
+Grande
+Visualizar
+
+Largura: 320px - Altura: 239px
+Copie e cole este código em sua página onde desejar que seu add-on apareça:
+<script async defer data-pin-hover="true" data-pin-tall="true" data-pin-round="true" src="//assets.pinterest.com/js/pinit.js"></script>
+
+---------------------------------------------------------------------------------------

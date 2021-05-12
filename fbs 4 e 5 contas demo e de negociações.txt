@@ -1,0 +1,31 @@
+
+Informações da sua conta Standard MT4
+Login MetaTrader
+280286680
+Copiar
+Senha MetaTrader
+aPQoQcH8
+Copiar
+Servidor MetaTrader
+FBS-Real-8
+IP do servidor MetaTrader
+45.76.141.217:443
+
+
+Ir aos ajustes da conta
+
+
+Informações da sua conta Cent MT4
+Login MetaTrader
+241093219
+Copiar
+Senha MetaTrader
+cqh1d8VA
+Copiar
+Servidor MetaTrader
+FBS-Real-4
+IP do servidor MetaTrader
+108.61.197.150:443
+
+
+Ir aos ajustes da conta

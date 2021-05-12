@@ -1,0 +1,61 @@
+
+http://www.mysteryptc.com/index.php?ref=feccruz
+Your Balance: $483.00000 Welcome back Francisco Euzebio da Cruz!
+
+
+
+Account No: 10162314	Name: Francisco Euzebio da Cruz	Currency: USD	2021-04-24 23:59:59
+ 
+Closed orders and balance operations:
+   Open Time	Ticket	Type	Size	Item	Price	Order	Comment	Entry	Commission	
+
+Swap	Profit
+2021-04-24 19:25:44.358	2281376313	balance					D-OPY-85185321: USD 2.51				2.08
+ 	0.00	0.00	0.00
+ 
+Open orders:
+   Open Time	Ticket	Type	Size	Item	Price	S / L	T / P	Market Price	Swap	Profit
+No transactions
+ 	0.00	 	0.00
+ 	Floating profit/loss:	0.00
+Pending orders:
+   Open Time	Ticket	Type	Size	Item	Price	S / L	T / P	Market Price	Comment
+No transactions
+ 
+Account Summary:
+Closed Trade profit/loss:	0.00	 	Previous Ledger Balance:	2.90
+Deposit/Withdrawal:	2.08	 	Previous Equity:	2.90
+Total Credit Facility:	0.00	 	Balance:	4.98
+Round Commission:	0.00	 	Equity:	4.98
+Instant Commission:	0.00	 	Floating profit/loss:	0.00
+Additional Operations:	0.00	 	Margin Requirements:	0.00
+Total:	2.08	 	Available Margin:	4.98
+
+
+Account No: 10162308	Name: Francisco Euzebio da Cruz	Currency: USD	2021-04-24 23:59:59
+ 
+Closed orders and balance operations:
+   Open Time	Ticket	Type	Size	Item	Price	Order	Comment	Entry	Commission	Swap	Profit
+2021-04-24 02:32:53.241	2281368595	balance					D-OPY-85152818: USD 1.20				81.00
+2021-04-24 19:22:51.246	2281376292	balance					D-OPY-85185278: USD 2.51				208.00
+ 	0.00	0.00	0.00
+ 
+Open orders:
+   Open Time	Ticket	Type	Size	Item	Price	S / L	T / P	Market Price	Swap	Profit
+No transactions
+ 	0.00	 	0.00
+ 	Floating profit/loss:	0.00
+Pending orders:
+   Open Time	Ticket	Type	Size	Item	Price	S / L	T / P	Market Price	Comment
+No transactions
+ 
+Account Summary:
+Closed Trade profit/loss:	0.00	 	Previous Ledger Balance:	209.00
+Deposit/Withdrawal:	289.00	 	Previous Equity:	209.00
+Total Credit Facility:	0.00	 	Balance:	498.00
+Round Commission:	0.00	 	Equity:	498.00
+Instant Commission:	0.00	 	Floating profit/loss:	0.00
+Additional Operations:	0.00	 	Margin Requirements:	0.00
+Total:	289.00	 	Available Margin:	498.00
+
+
